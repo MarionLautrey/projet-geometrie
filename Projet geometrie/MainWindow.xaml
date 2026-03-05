@@ -1,0 +1,71 @@
+﻿<Window x:Name="La_géométrie_pour_tous" x:Class="Projet_geometrie.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Projet_geometrie"
+        mc:Ignorable="d"
+        Title="La géométrie pour s'amuser" AutomationProperties.Name="Geometrie">
+    <Grid Background="#FFF5EDED" Margin="0,0,0,-6" Width="800" Height="600">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="367*"/>
+            <RowDefinition Height="433*"/>
+        </Grid.RowDefinitions>
+        <GroupBox x:Name="Image" Header="Image" Margin="0,0,300,0">
+            <Canvas x:Name="canvasDessin" Uid="canvasDessin" Background="AliceBlue" Height="44" RenderTransformOrigin="0.5,0.5" Margin="230,0,218,0">
+                <Canvas.RenderTransform>
+                    <TransformGroup>
+                        <ScaleTransform ScaleX="-1" ScaleY="-1"/>
+                        <SkewTransform/>
+                        <RotateTransform/>
+                        <TranslateTransform/>
+                    </TransformGroup>
+                </Canvas.RenderTransform>
+            </Canvas>
+        </GroupBox>
+        <GroupBox x:Name="Formes" Header="Formes" Margin="500,0,0,0">
+            <Grid>
+                <RadioButton x:Name="RdoCarre" Content="Carré" HorizontalAlignment="Left" Margin="39,38,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.782,-2.701" Height="81" Width="81" />
+                <RadioButton x:Name="RdoRectangle" Content="Rectangle" HorizontalAlignment="Left" Margin="176,38,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.782,-2.701" Height="81" Width="81" />
+                <RadioButton x:Name="RdoTriangle" Content="Triangle" HorizontalAlignment="Left" Margin="39,88,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.782,-2.701" Height="81" Width="81" />
+                <RadioButton x:Name="RdoCercle" Content="Cercle" HorizontalAlignment="Left" Margin="176,88,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.782,-2.701" Height="81" Width="81" />
+                <Button Content="Afficher" HorizontalAlignment="Center" Margin="0,129,0,0" VerticalAlignment="Top" Width="160" Height="40" Click="BtnAfficher_Click" AutomationProperties.Name="Button_Valider" Background="#FF80C86D"/>
+                <Button Content="Effacer" HorizontalAlignment="Center" Margin="0,185,0,0" VerticalAlignment="Top" Width="160" Height="40" Click="BtnClear_Click" Background="#FFA6A5B7"/>
+            </Grid>
+        </GroupBox>
+        <Grid Grid.Row="1">
+            <GroupBox Header="Valeurs de la figure" Margin="0,0,400,0">
+                <Grid>
+                    <TextBox IsReadOnly="True" HorizontalAlignment="Left" Margin="110,41,0,0" TextWrapping="Wrap" Name="txtLongueur" VerticalAlignment="Top" Width="120"/>
+                    <TextBox IsReadOnly="True" HorizontalAlignment="Left" Margin="110,74,0,0" TextWrapping="Wrap" Name="txtLargeur" VerticalAlignment="Top" Width="120" />
+                    <TextBox IsReadOnly="True" HorizontalAlignment="Left" Margin="110,106,0,0" TextWrapping="Wrap" Name="txtHauteur" VerticalAlignment="Top" Width="120"/>
+                    <TextBox IsReadOnly="True" HorizontalAlignment="Left" Margin="110,137,0,0" TextWrapping="Wrap" Name="txtRayon" VerticalAlignment="Top" Width="120"/>
+                    <Label Content="Longueur" HorizontalAlignment="Left" Margin="44,37,0,0" VerticalAlignment="Top" RenderTransformOrigin="-0.526,-0.353"/>
+                    <Label Content="Largeur" HorizontalAlignment="Left" Margin="44,68,0,0" VerticalAlignment="Top" RenderTransformOrigin="-0.526,-0.353"/>
+                    <Label Content="Hauteur" HorizontalAlignment="Left" Margin="44,102,0,0" VerticalAlignment="Top" RenderTransformOrigin="-0.526,-0.353"/>
+                    <Label Content="Rayon" HorizontalAlignment="Left" Margin="44,133,0,0" VerticalAlignment="Top" RenderTransformOrigin="-0.526,-0.353"/>
+                    <Button Content="Valider" Click="BtnValider_Click" HorizontalAlignment="Left" Margin="86,206,0,0" VerticalAlignment="Top" Width="168" Height="48" Background="#FF7DE261"/>
+                </Grid>
+            </GroupBox>
+            <GroupBox Header="Réponses " Margin="400,0,198,168">
+                <Grid Margin="0,0,-2,0">
+                    <Label Content="Périmètre de la figure =" HorizontalAlignment="Left" Margin="10,25,0,0" VerticalAlignment="Top"/>
+                    <Label Content="Surface de la figure = " HorizontalAlignment="Left" Margin="10,67,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.263,-0.105"/>
+                </Grid>
+            </GroupBox>
+            <Grid Margin="405,174,0,0">
+                <Button Content="Quitter" HorizontalAlignment="Center" VerticalAlignment="Center" Click="Button_quitter" Height="48" Width="168" Background="#FFD09D9D"/>
+            </Grid>
+            <TextBox Name="resultatP" HorizontalAlignment="Left" Margin="555,48,0,0" VerticalAlignment="Top" Width="40" Height="20"/>
+            <TextBox Name="resultatS"  HorizontalAlignment="Left" Margin="538,89,0,0" VerticalAlignment="Top" Width="40" Height="20"/>
+            <GroupBox Header="Réponses attendues" Margin="598,0,0,163">
+                <Grid Margin="0,0,-2,0">
+                    <Label Content="Périmètre de la figure =" HorizontalAlignment="Left" Margin="10,29,0,0" VerticalAlignment="Top"/>
+                    <Label Content="Surface de la figure = " HorizontalAlignment="Left" Margin="10,69,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.263,-0.105"/>
+                </Grid>
+            </GroupBox>
+            <TextBox IsReadOnly="True" x:Name="resultatP_Attendus" HorizontalAlignment="Left" Margin="750,48,0,0" VerticalAlignment="Top" Width="40" Height="20" RenderTransformOrigin="5.175,0.74"/>
+            <TextBox IsReadOnly="True" x:Name="resultatS_Attendus"  HorizontalAlignment="Left" Margin="740,89,0,0" VerticalAlignment="Top" Width="40" Height="20"/>
+        </Grid>
+    </Grid>
+</Window>
