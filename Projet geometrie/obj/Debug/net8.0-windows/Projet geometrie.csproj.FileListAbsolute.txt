@@ -22,23 +22,23 @@ E:\Ecole\Projet geometrie\Projet geometrie\obj\Debug\net8.0-windows\refint\Proje
 E:\Ecole\Projet geometrie\Projet geometrie\obj\Debug\net8.0-windows\Projet geometrie.pdb
 E:\Ecole\Projet geometrie\Projet geometrie\obj\Debug\net8.0-windows\Projet geometrie.genruntimeconfig.cache
 E:\Ecole\Projet geometrie\Projet geometrie\obj\Debug\net8.0-windows\ref\Projet geometrie.dll
-D:\Ecole\Projet geometrie\Projet geometrie\bin\Debug\net8.0-windows\Projet geometrie.exe
-D:\Ecole\Projet geometrie\Projet geometrie\bin\Debug\net8.0-windows\Projet geometrie.deps.json
-D:\Ecole\Projet geometrie\Projet geometrie\bin\Debug\net8.0-windows\Projet geometrie.runtimeconfig.json
-D:\Ecole\Projet geometrie\Projet geometrie\bin\Debug\net8.0-windows\Projet geometrie.dll
-D:\Ecole\Projet geometrie\Projet geometrie\bin\Debug\net8.0-windows\Projet geometrie.pdb
-D:\Ecole\Projet geometrie\Projet geometrie\obj\Debug\net8.0-windows\MainWindow.g.cs
-D:\Ecole\Projet geometrie\Projet geometrie\obj\Debug\net8.0-windows\App.g.cs
-D:\Ecole\Projet geometrie\Projet geometrie\obj\Debug\net8.0-windows\Projet geometrie_MarkupCompile.cache
-D:\Ecole\Projet geometrie\Projet geometrie\obj\Debug\net8.0-windows\Projet geometrie_MarkupCompile.lref
-D:\Ecole\Projet geometrie\Projet geometrie\obj\Debug\net8.0-windows\MainWindow.baml
-D:\Ecole\Projet geometrie\Projet geometrie\obj\Debug\net8.0-windows\Projet geometrie.g.resources
-D:\Ecole\Projet geometrie\Projet geometrie\obj\Debug\net8.0-windows\Projet geometrie.GeneratedMSBuildEditorConfig.editorconfig
-D:\Ecole\Projet geometrie\Projet geometrie\obj\Debug\net8.0-windows\Projet geometrie.AssemblyInfoInputs.cache
-D:\Ecole\Projet geometrie\Projet geometrie\obj\Debug\net8.0-windows\Projet geometrie.AssemblyInfo.cs
-D:\Ecole\Projet geometrie\Projet geometrie\obj\Debug\net8.0-windows\Projet geometrie.csproj.CoreCompileInputs.cache
-D:\Ecole\Projet geometrie\Projet geometrie\obj\Debug\net8.0-windows\Projet geometrie.dll
-D:\Ecole\Projet geometrie\Projet geometrie\obj\Debug\net8.0-windows\refint\Projet geometrie.dll
-D:\Ecole\Projet geometrie\Projet geometrie\obj\Debug\net8.0-windows\Projet geometrie.pdb
-D:\Ecole\Projet geometrie\Projet geometrie\obj\Debug\net8.0-windows\Projet geometrie.genruntimeconfig.cache
-D:\Ecole\Projet geometrie\Projet geometrie\obj\Debug\net8.0-windows\ref\Projet geometrie.dll
+E:\Bts Sio1\SLAM\Projet geometrie\Projet geometrie\Projet geometrie\bin\Debug\net8.0-windows\Projet geometrie.exe
+E:\Bts Sio1\SLAM\Projet geometrie\Projet geometrie\Projet geometrie\bin\Debug\net8.0-windows\Projet geometrie.deps.json
+E:\Bts Sio1\SLAM\Projet geometrie\Projet geometrie\Projet geometrie\bin\Debug\net8.0-windows\Projet geometrie.runtimeconfig.json
+E:\Bts Sio1\SLAM\Projet geometrie\Projet geometrie\Projet geometrie\bin\Debug\net8.0-windows\Projet geometrie.dll
+E:\Bts Sio1\SLAM\Projet geometrie\Projet geometrie\Projet geometrie\bin\Debug\net8.0-windows\Projet geometrie.pdb
+E:\Bts Sio1\SLAM\Projet geometrie\Projet geometrie\Projet geometrie\obj\Debug\net8.0-windows\MainWindow.g.cs
+E:\Bts Sio1\SLAM\Projet geometrie\Projet geometrie\Projet geometrie\obj\Debug\net8.0-windows\App.g.cs
+E:\Bts Sio1\SLAM\Projet geometrie\Projet geometrie\Projet geometrie\obj\Debug\net8.0-windows\Projet geometrie_MarkupCompile.cache
+E:\Bts Sio1\SLAM\Projet geometrie\Projet geometrie\Projet geometrie\obj\Debug\net8.0-windows\Projet geometrie_MarkupCompile.lref
+E:\Bts Sio1\SLAM\Projet geometrie\Projet geometrie\Projet geometrie\obj\Debug\net8.0-windows\MainWindow.baml
+E:\Bts Sio1\SLAM\Projet geometrie\Projet geometrie\Projet geometrie\obj\Debug\net8.0-windows\Projet geometrie.g.resources
+E:\Bts Sio1\SLAM\Projet geometrie\Projet geometrie\Projet geometrie\obj\Debug\net8.0-windows\Projet geometrie.GeneratedMSBuildEditorConfig.editorconfig
+E:\Bts Sio1\SLAM\Projet geometrie\Projet geometrie\Projet geometrie\obj\Debug\net8.0-windows\Projet geometrie.AssemblyInfoInputs.cache
+E:\Bts Sio1\SLAM\Projet geometrie\Projet geometrie\Projet geometrie\obj\Debug\net8.0-windows\Projet geometrie.AssemblyInfo.cs
+E:\Bts Sio1\SLAM\Projet geometrie\Projet geometrie\Projet geometrie\obj\Debug\net8.0-windows\Projet geometrie.csproj.CoreCompileInputs.cache
+E:\Bts Sio1\SLAM\Projet geometrie\Projet geometrie\Projet geometrie\obj\Debug\net8.0-windows\Projet geometrie.dll
+E:\Bts Sio1\SLAM\Projet geometrie\Projet geometrie\Projet geometrie\obj\Debug\net8.0-windows\refint\Projet geometrie.dll
+E:\Bts Sio1\SLAM\Projet geometrie\Projet geometrie\Projet geometrie\obj\Debug\net8.0-windows\Projet geometrie.pdb
+E:\Bts Sio1\SLAM\Projet geometrie\Projet geometrie\Projet geometrie\obj\Debug\net8.0-windows\Projet geometrie.genruntimeconfig.cache
+E:\Bts Sio1\SLAM\Projet geometrie\Projet geometrie\Projet geometrie\obj\Debug\net8.0-windows\ref\Projet geometrie.dll

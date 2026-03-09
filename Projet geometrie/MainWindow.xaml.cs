@@ -74,14 +74,12 @@ namespace Projet_geometrie
                 resultatP_Attendus.Text = oCarre.Perimetre().ToString();
                 resultatS_Attendus.Text = oCarre.Surface().ToString();
 
-                if (resultatP.ToString() == resultatP_Attendus.ToString() && resultatS.ToString() == resultatS_Attendus.ToString())
+                if (resultatP.Text == resultatP_Attendus.Text && resultatS.Text == resultatS_Attendus.Text)
                 {
                     MessageBox.Show("Bravo vous avez trouvé la bonne réponse ! ");
                 }
-                else if (resultatP.ToString() != resultatP_Attendus.ToString() && resultatS.ToString() != resultatS_Attendus.ToString() || resultatP.ToString() == resultatP_Attendus.ToString() && resultatS.ToString() != resultatS_Attendus.ToString() || resultatP.ToString() != resultatP_Attendus.ToString() && resultatS.ToString() == resultatS_Attendus.ToString())
+                else
                 {
-                    resultatP_Attendus.Text = "";
-                    resultatS_Attendus.Text = "";
                     MessageBox.Show("Faux !");
                 }
             }
@@ -90,14 +88,12 @@ namespace Projet_geometrie
                 resultatP_Attendus.Text = oRectangle.Perimetre().ToString();
                 resultatS_Attendus.Text = oRectangle.Surface().ToString();
 
-                if (resultatP.ToString() == resultatP_Attendus.ToString() && resultatS.ToString() == resultatS_Attendus.ToString())
+                if (resultatP.Text == resultatP_Attendus.Text && resultatS.Text == resultatS_Attendus.Text)
                 {
                     MessageBox.Show("Bravo vous avez trouvé la bonne réponse ! ");
                 }
-                else if (resultatP.ToString() != resultatP_Attendus.ToString() && resultatS.ToString() != resultatS_Attendus.ToString() || resultatP.ToString() == resultatP_Attendus.ToString() && resultatS.ToString() != resultatS_Attendus.ToString() || resultatP.ToString() != resultatP_Attendus.ToString() && resultatS.ToString() == resultatS_Attendus.ToString())
+                else 
                 {
-                    resultatP_Attendus.Text = "";
-                    resultatS_Attendus.Text = "";
                     MessageBox.Show("Faux !");
                 }
             }
@@ -107,14 +103,12 @@ namespace Projet_geometrie
                 resultatS_Attendus.Text = oTriangle.fSurface().ToString();
                 MessageBox.Show(resultatP_Attendus.ToString() + resultatS_Attendus.ToString());
 
-                if (resultatP.ToString() == resultatP_Attendus.ToString() && resultatS.ToString() == resultatS_Attendus.ToString())
+                if (resultatP.Text == resultatP_Attendus.Text && resultatS.Text == resultatS_Attendus.Text)
                 {
                     MessageBox.Show("Bravo vous avez trouvé la bonne réponse ! ");
                 }
-                else if (resultatP.ToString() != resultatP_Attendus.ToString() && resultatS.ToString() != resultatS_Attendus.ToString() || resultatP.ToString() == resultatP_Attendus.ToString() && resultatS.ToString() != resultatS_Attendus.ToString() || resultatP.ToString() != resultatP_Attendus.ToString() && resultatS.ToString() == resultatS_Attendus.ToString())
+                else 
                 {
-                    resultatP_Attendus.Text = "";
-                    resultatS_Attendus.Text = "";
                     MessageBox.Show("Faux !");
                 }
             }
@@ -124,13 +118,12 @@ namespace Projet_geometrie
                 resultatS_Attendus.Text = oCercle.Surface().ToString();
                 MessageBox.Show(resultatP_Attendus.ToString() + resultatS_Attendus.ToString());
 
-                if (resultatP.ToString() == resultatP_Attendus.ToString() && resultatS.ToString() == resultatS_Attendus.ToString())
+                if (resultatP.Text == resultatP_Attendus.Text && resultatS.Text == resultatS_Attendus.Text)
                 {
                     MessageBox.Show("Bravo vous avez trouvé la bonne réponse ! ");
                 }
-                else if (resultatP.ToString() != resultatP_Attendus.ToString() && resultatS.ToString() != resultatS_Attendus.ToString() || resultatP.ToString() == resultatP_Attendus.ToString() && resultatS.ToString() != resultatS_Attendus.ToString() || resultatP.ToString() != resultatP_Attendus.ToString() && resultatS.ToString() == resultatS_Attendus.ToString()){
-                    resultatP_Attendus.Text = "";
-                    resultatS_Attendus.Text = "";
+                else
+                {
                     MessageBox.Show("Faux !");
                 }
             }

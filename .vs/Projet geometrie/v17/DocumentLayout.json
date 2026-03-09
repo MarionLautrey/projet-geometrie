@@ -1,0 +1,135 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Bts Sio1\\SLAM\\Projet geometrie\\Projet geometrie\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DA700446-BA37-45DE-BBF9-0EF583EF801F}|Projet geometrie\\Projet geometrie.csproj|e:\\bts sio1\\slam\\projet geometrie\\projet geometrie\\projet geometrie\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{DA700446-BA37-45DE-BBF9-0EF583EF801F}|Projet geometrie\\Projet geometrie.csproj|solutionrelative:projet geometrie\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA700446-BA37-45DE-BBF9-0EF583EF801F}|Projet geometrie\\Projet geometrie.csproj|e:\\bts sio1\\slam\\projet geometrie\\projet geometrie\\projet geometrie\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA700446-BA37-45DE-BBF9-0EF583EF801F}|Projet geometrie\\Projet geometrie.csproj|solutionrelative:projet geometrie\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA700446-BA37-45DE-BBF9-0EF583EF801F}|Projet geometrie\\Projet geometrie.csproj|e:\\bts sio1\\slam\\projet geometrie\\projet geometrie\\projet geometrie\\classecarre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA700446-BA37-45DE-BBF9-0EF583EF801F}|Projet geometrie\\Projet geometrie.csproj|solutionrelative:projet geometrie\\classecarre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA700446-BA37-45DE-BBF9-0EF583EF801F}|Projet geometrie\\Projet geometrie.csproj|e:\\bts sio1\\slam\\projet geometrie\\projet geometrie\\projet geometrie\\classerectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA700446-BA37-45DE-BBF9-0EF583EF801F}|Projet geometrie\\Projet geometrie.csproj|solutionrelative:projet geometrie\\classerectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA700446-BA37-45DE-BBF9-0EF583EF801F}|Projet geometrie\\Projet geometrie.csproj|e:\\bts sio1\\slam\\projet geometrie\\projet geometrie\\projet geometrie\\classecercle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA700446-BA37-45DE-BBF9-0EF583EF801F}|Projet geometrie\\Projet geometrie.csproj|solutionrelative:projet geometrie\\classecercle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA700446-BA37-45DE-BBF9-0EF583EF801F}|Projet geometrie\\Projet geometrie.csproj|e:\\bts sio1\\slam\\projet geometrie\\projet geometrie\\projet geometrie\\classetriangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA700446-BA37-45DE-BBF9-0EF583EF801F}|Projet geometrie\\Projet geometrie.csproj|solutionrelative:projet geometrie\\classetriangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA700446-BA37-45DE-BBF9-0EF583EF801F}|Projet geometrie\\Projet geometrie.csproj|e:\\bts sio1\\slam\\projet geometrie\\projet geometrie\\projet geometrie\\classecalcul.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA700446-BA37-45DE-BBF9-0EF583EF801F}|Projet geometrie\\Projet geometrie.csproj|solutionrelative:projet geometrie\\classecalcul.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 315,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ClasseCalcul.cs",
+              "DocumentMoniker": "E:\\Bts Sio1\\SLAM\\Projet geometrie\\Projet geometrie\\Projet geometrie\\ClasseCalcul.cs",
+              "RelativeDocumentMoniker": "Projet geometrie\\ClasseCalcul.cs",
+              "ToolTip": "E:\\Bts Sio1\\SLAM\\Projet geometrie\\Projet geometrie\\Projet geometrie\\ClasseCalcul.cs",
+              "RelativeToolTip": "Projet geometrie\\ClasseCalcul.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAgwBkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T14:40:46.757Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ClasseCercle.cs",
+              "DocumentMoniker": "E:\\Bts Sio1\\SLAM\\Projet geometrie\\Projet geometrie\\Projet geometrie\\ClasseCercle.cs",
+              "RelativeDocumentMoniker": "Projet geometrie\\ClasseCercle.cs",
+              "ToolTip": "E:\\Bts Sio1\\SLAM\\Projet geometrie\\Projet geometrie\\Projet geometrie\\ClasseCercle.cs",
+              "RelativeToolTip": "Projet geometrie\\ClasseCercle.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABkAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T07:07:26.248Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ClasseCarre.cs",
+              "DocumentMoniker": "E:\\Bts Sio1\\SLAM\\Projet geometrie\\Projet geometrie\\Projet geometrie\\ClasseCarre.cs",
+              "RelativeDocumentMoniker": "Projet geometrie\\ClasseCarre.cs",
+              "ToolTip": "E:\\Bts Sio1\\SLAM\\Projet geometrie\\Projet geometrie\\Projet geometrie\\ClasseCarre.cs",
+              "RelativeToolTip": "Projet geometrie\\ClasseCarre.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAowEMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T07:07:17.895Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ClasseTriangle.cs",
+              "DocumentMoniker": "E:\\Bts Sio1\\SLAM\\Projet geometrie\\Projet geometrie\\Projet geometrie\\ClasseTriangle.cs",
+              "RelativeDocumentMoniker": "Projet geometrie\\ClasseTriangle.cs",
+              "ToolTip": "E:\\Bts Sio1\\SLAM\\Projet geometrie\\Projet geometrie\\Projet geometrie\\ClasseTriangle.cs",
+              "RelativeToolTip": "Projet geometrie\\ClasseTriangle.cs",
+              "ViewState": "AgIAAFsAAAAAAAAAAAAAAEEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T17:15:15.535Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ClasseRectangle.cs",
+              "DocumentMoniker": "E:\\Bts Sio1\\SLAM\\Projet geometrie\\Projet geometrie\\Projet geometrie\\ClasseRectangle.cs",
+              "RelativeDocumentMoniker": "Projet geometrie\\ClasseRectangle.cs",
+              "ToolTip": "E:\\Bts Sio1\\SLAM\\Projet geometrie\\Projet geometrie\\Projet geometrie\\ClasseRectangle.cs",
+              "RelativeToolTip": "Projet geometrie\\ClasseRectangle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-01T19:12:43.677Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "E:\\Bts Sio1\\SLAM\\Projet geometrie\\Projet geometrie\\Projet geometrie\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "Projet geometrie\\MainWindow.xaml",
+              "ToolTip": "E:\\Bts Sio1\\SLAM\\Projet geometrie\\Projet geometrie\\Projet geometrie\\MainWindow.xaml",
+              "RelativeToolTip": "Projet geometrie\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-21T18:05:29.805Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "E:\\Bts Sio1\\SLAM\\Projet geometrie\\Projet geometrie\\Projet geometrie\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Projet geometrie\\MainWindow.xaml.cs",
+              "ToolTip": "E:\\Bts Sio1\\SLAM\\Projet geometrie\\Projet geometrie\\Projet geometrie\\MainWindow.xaml.cs",
+              "RelativeToolTip": "Projet geometrie\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAFcAAAAAAAAAAAAQwG8AAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T18:05:29.807Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

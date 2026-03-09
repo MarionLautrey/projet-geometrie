@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Ecole\\Projet geometrie\\Projet geometrie\\Projet geometrie.csproj",
+      "projectUniqueName": "E:\\Bts Sio1\\SLAM\\Projet geometrie\\Projet geometrie\\Projet geometrie\\Projet geometrie.csproj",
       "projectName": "Projet geometrie",
-      "projectPath": "E:\\Ecole\\Projet geometrie\\Projet geometrie\\Projet geometrie.csproj",
+      "projectPath": "E:\\Bts Sio1\\SLAM\\Projet geometrie\\Projet geometrie\\Projet geometrie\\Projet geometrie.csproj",
       "packagesPath": "C:\\Users\\mario\\.nuget\\packages\\",
-      "outputPath": "E:\\Ecole\\Projet geometrie\\Projet geometrie\\obj\\",
+      "outputPath": "E:\\Bts Sio1\\SLAM\\Projet geometrie\\Projet geometrie\\Projet geometrie\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
